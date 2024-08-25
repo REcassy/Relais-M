@@ -1,0 +1,1 @@
+This repo contains the schematics (KiCad + symbols/footprints), pcb (gerber + drill) files necessary to build a clone Relais M adapter for the Cassy Mobile as described [here][https://recassy.github.io/2024/08/24/Relais-Clone.html]
